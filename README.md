@@ -471,39 +471,3 @@ November 9–14, 2025
 This project is distributed under the **MIT License**.
 
 See [`LICENSE`](LICENSE) for details.
-
----
-
-## 👤 Authors
-
-Developed by:
-
-**Iago Rhudá Ramos**
-**Ricardo Augusto Baena da Costa**
-**Edo Walfrido de Almeida**
-**Helon Vicente Hultmann Ayala**
-
-Pontifícia Universidade Católica do Paraná (PUCPR)
-
----
-
-## 🔗 Repository
-
-Source code:
-
-https://github.com/iago-rhuda/Tabular_Prior_Data_Fitted_Network_For_Structural_Damage_Prediction
-
----
-
-## 🚀 Future Work
-
-The paper identifies several directions for future development:
-
-* Hardware acceleration for TabPFN inference.
-* More efficient TabPFN implementations.
-* Model compression techniques.
-* Improved deployment on edge-computing platforms.
-* Further investigation of inference-time efficiency for real-time SHM.
-* Evaluation of scalability under different structural monitoring configurations.
-
-These directions aim to reduce the computational limitations observed in the current experimental configuration while preserving the predictive performance of TabPFN.
